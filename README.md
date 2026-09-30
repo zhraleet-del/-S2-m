@@ -1,2 +1,2 @@
-# -S2-Page-de-d-tail-d-un-article
+# -S2-
 html et css
